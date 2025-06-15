@@ -43,4 +43,4 @@ A Power BI dashboard analyzing 12,000+ anime titles with insights from viewer co
 ---
 
 ## 📬 Contact
-Created by **Your Name** | [LinkedIn](www.linkedin.com/in/shourya-pratap-singh) | [Portfolio](https://github.com/geekgamer143)
+Created by Shourya | [LinkedIn](www.linkedin.com/in/shourya-pratap-singh) | [Portfolio](https://github.com/geekgamer143)
